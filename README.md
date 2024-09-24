@@ -17,3 +17,13 @@
 😪
 💥
 😕
+
+## Keyboard Shortcuts
+- Ctrl + C (Copy)
+- Ctrl + V (Paster)
+- Alt + Tab (Task switcher or Flip)
+
+Shortcuts I would like to start using:
+- Ctrl + Y: Redo what you undo
+- CTRL + ESC : Display start menu.
+- Ctrl+Shift+Esc can open the task manager
