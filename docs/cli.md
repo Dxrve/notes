@@ -1,2 +1,2 @@
-ls - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS
-cat - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS
+ls - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS.
+cat - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS.
