@@ -1,3 +1,2 @@
-LS - is a command fundemental command in Linux and Unix-like operating systems that list the contents of a directory or file system.
-
-Cat - command used to read file content
+ls - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS
+cat - The ls command is a fundamental utility in Unix-like operating systems, including Linux and macOS
