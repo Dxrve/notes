@@ -13,6 +13,7 @@
 - [Georgebrown College] (https://www.georgebrown.ca/)
 - [Outlook] (https://outlook.office.com/mail/)
 - [gblearn] (https://my.gblearn.com/)
+- [Dxrve/notes/docs/cli.md] (https://github.dev/Dxrve/notes/new/main)
 ### Experiments
 😪
 💥
